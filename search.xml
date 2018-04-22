@@ -42,17 +42,17 @@
   
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>人生就在于学与不学，长风破浪会有时，直挂挂云帆济沧海。努力学习总会有收获。</p><p>##关于我<br>一个勤奋的boy<br>email: <a href="mailto:903715792@qq.com" target="_blank" rel="noopener">903715792@qq.com</a></p>]]></content>
+    </entry>
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
